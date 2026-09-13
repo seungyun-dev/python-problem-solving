@@ -1,4 +1,5 @@
-```def f(lst, d): # 배치 알고리즘
+```
+def f(lst, d): # 배치 알고리즘
     cnt = 1
     p = 0
     mini = max(x)-min(x)
@@ -39,4 +40,5 @@ while start <= end: # D에 대한 이진 탐색
     else:
         end = mid-1
 
-print(s)```
+print(s)
+```
